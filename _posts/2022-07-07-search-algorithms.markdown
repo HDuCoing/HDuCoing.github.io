@@ -2,7 +2,7 @@
 layout: post
 title:  "Search Algorithms"
 date:   2022-07-07 00	
-categories: algorithms
+categories: jekyll update
 ---
 
 Search Algorithms are extremely important for searching through data structures. It is also important to learn these algorithms in order to understand coding on a deeper level than just the output. The faster we can make our codes work with an appropriate O notation boundation. 
